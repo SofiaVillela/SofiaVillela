@@ -15,4 +15,4 @@ Oii, eu sou Sofia!<br>🔭 Estudo Ciência da Computação na Cesar School<br>�
 ---
 [![](https://visitcount.itsvg.in/api?id=SofiaVillela&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
