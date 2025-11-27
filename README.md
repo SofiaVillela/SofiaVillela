@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oii, eu sou Sofia!<br>🔭 Estudo Ciência da Computação na Cesar School<br>💬 No momento estou aprendendo JavaScript<br>😄 Estou colaborando em um sistema de organizar festas<br>⚡ Aprimorando meu conhecimento em Python<br>
+Oii, eu sou Sofia!<br>🔭 Estudo Ciência da Computação na Cesar School<br>💬 No momento estou aprendendo JavaScript<br>⚡ Aprimorando meu conhecimento em Python<br>
 
 
 ## 🌐📫 Socials:
